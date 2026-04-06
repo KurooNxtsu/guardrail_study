@@ -33,7 +33,7 @@ It builds directly on the concepts from my article:
 
 ## 📁 Repository Structure
 guardrail-benchmark-mechinterp/ 
-├── guardrail_benchmark_colab_(1).ipynb
+├── guardrail_study.ipynb
 └── README.md
 text## 🚀 Quick Start
 
