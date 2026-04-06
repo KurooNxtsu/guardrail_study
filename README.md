@@ -2,7 +2,6 @@
 
 **Quantitatively evaluating safety interventions on LLMs using circuits, features, and activation steering — with a strong focus on real-world AI security risks.**
 
-![Badge](https://img.shields.io/badge/Model-Qwen2.5-1.5B-Instruct-blue) 
 ![Badge](https://img.shields.io/badge/Techniques-Steering%20%7C%20Ablation%20%7C%20SAE-green)
 ![Badge](https://img.shields.io/badge/Benchmarks-JailbreakBench%20%7C%20DoNotAnswer%20%7C%20MMLU%20%7C%20GSM8K-red)
 
