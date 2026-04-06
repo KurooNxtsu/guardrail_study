@@ -113,7 +113,7 @@ MIT License — see [LICENSE](LICENSE) file.
 
 ## 📬 Contact / Connect
 
-Built by **Nitish** — connecting mechanistic interpretability with practical AI security.
+Built by **Nitish Narva** — connecting mechanistic interpretability with practical AI security.
 
 - Feel free to reach out if you're working on guardrails, red teaming, or mechinterp for safety!
 
