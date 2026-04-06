@@ -32,9 +32,8 @@ It builds directly on the concepts from my article:
 - **Easy to run**: Single Colab notebook with clear cell-by-cell execution.
 
 ## 📁 Repository Structure
-guardrail-benchmark-mechinterp/
-
-├── guardrail_benchmark_colab_(1).ipynb    # Main benchmark notebook
+guardrail-benchmark-mechinterp/ 
+├── guardrail_benchmark_colab_(1).ipynb
 └── README.md
 text## 🚀 Quick Start
 
