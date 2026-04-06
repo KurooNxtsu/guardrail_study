@@ -35,7 +35,7 @@ It builds directly on the concepts from my article:
 guardrail-benchmark-mechinterp/ 
 ├── guardrail_study.ipynb
 └── README.md
-text## 🚀 Quick Start
+## 🚀 Quick Start
 
 1. Open the notebook in Google Colab (recommended) or locally.
 2. Run **Cell 1** (package installation) → Restart runtime.
